@@ -1,0 +1,23 @@
+ERROR:root:Error: division by zero
+ERROR:root:This is an error message
+ERROR:root:An error occurred: division by zero
+DEBUG:__main__:This is a debug message.
+INFO:__main__:This is an info message.
+WARNING:__main__:This is a warning message.
+ERROR:__main__:This is an error message.
+CRITICAL:__main__:This is a critical message.
+ERROR:root:File 'non_existent_file.txt' not found.
+ERROR:root:An error occurred: division by zero
+ERROR:root:Error: division by zero
+ERROR:root:This is an error message
+ERROR:root:An error occurred: division by zero
+ERROR:root:An error occurred: division by zero
+ERROR:root:An error occurred: division by zero
+ERROR:root:An error occurred: division by zero
+ERROR:root:Error: division by zero
+ERROR:root:Error: division by zero
+ERROR:root:Error: division by zero
+ERROR:root:Error: division by zero
+ERROR:root:This is an error message
+ERROR:root:An error occurred: division by zero
+ERROR:root:File 'non_existent_file.txt' not found.
